@@ -10,13 +10,13 @@ This repository is a 30-day data challenge: each day you pick or obtain a datase
 
 ## Repository structure (convention)
 
-- `Day_1.ipynb`, `Day_2.ipynb`, ... — Daily notebooks with analysis and notes.
+- `Day 1`, `Day 2`, ... — Daily notebooks with analysis and notes.
 - `sample_data/` — small example datasets used by the notebooks.
 
 ## Daily workflow (suggested checklist)
 
 1. Choose or collect a dataset and save it under `sample_data/` or a `data/` folder.
-2. Open a new notebook (e.g., `Day_05.ipynb`) and write a short objective: what question will you answer?
+2. Open a new notebook (e.g., `notebook.ipynb`) and write a short objective: what question will you answer?
 3. Quick EDA:
 	- Inspect shapes, missingness, basic statistics.
 	- Visualize distributions and relationships.
@@ -37,10 +37,6 @@ This repository is a 30-day data challenge: each day you pick or obtain a datase
 
 Edge cases to consider: missing/null values, mixed types in a column, highly imbalanced targets, time-series leakages.
 
-## File & naming conventions
-
-- Notebooks: `Day_01.ipynb`, `Day_02.ipynb`, etc. Keep the day number at the front for easy sorting.
-
 
 ## Suggested dependencies
 
@@ -60,26 +56,6 @@ seaborn
 scikit-learn
 jupyterlab
 statsmodels
-```
-
-## Try it (PowerShell)
-
-1. Create and activate a virtual environment, install requirements, and launch Jupyter:
-
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-jupyter lab
-```
-
-2. Open a notebook in the browser (from Jupyter) and run cells top-to-bottom.
-
-3. To run a specific notebook from the command line (quick), you can use:
-
-```powershell
-jupyter nbconvert --to notebook --execute "Day_1.ipynb" --inplace
 ```
 
 ## Contribution & notes
