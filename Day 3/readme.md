@@ -32,8 +32,8 @@ The analysis uses a dataset with two variables:
 The clustering analysis identified 4 distinct customer segments based on their satisfaction and loyalty:
 ![cluster](images/image.png)
 - **Cluster 0:** Low Satisfaction, Low Loyalty (Alienated)
-- **Cluster 1:** Low Satisfaction, High Loyalty (Roamers)
-- **Cluster 2:** High Satisfaction, Low Loyalty (Supporters)
+- **Cluster 1:** Low Satisfaction, High Loyalty (Supporters)
+- **Cluster 2:** High Satisfaction, Low Loyalty (Roamers)
 - **Cluster 3:** High Satisfaction, High Loyalty (Fans)
 
 These segments are visualized in the scatter plot, with each cluster represented by a different color.
