@@ -180,7 +180,7 @@ GPA = 3.330 + 0.172(SAT_scaled) - 0.007(Rand_scaled)
 
 ---
 
-**Challenge Progress:** Day 8/100 ✅  
+**Challenge Progress:** Day 8/30 ✅  
 **Focus:** Feature Preprocessing & Scaling Techniques  
 **Next Challenge:** Real Estate Price Prediction with Scaling
 
