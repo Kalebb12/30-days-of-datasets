@@ -184,4 +184,4 @@ GPA = 3.330 + 0.172(SAT_scaled) - 0.007(Rand_scaled)
 **Focus:** Feature Preprocessing & Scaling Techniques  
 **Next Challenge:** Real Estate Price Prediction with Scaling
 
-#100DaysOfDataScience #MachineLearning #FeatureScaling #sklearn
+#MachineLearning #FeatureScaling #sklearn
