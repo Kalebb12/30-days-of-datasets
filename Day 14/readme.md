@@ -46,12 +46,12 @@ The dataset includes the following columns:
 3. **Precipitation & Weather**
    - bar charts to show the relationship between precipitation and weather types.
    - Snow had the highest precipitation values, followed by rain.
-   - ![Temp_Time](images/preco_time.png)
+   - ![Temp_Time](images/preco_weather.png)
 
 4. **Wind Speed by Weather**
    - bar charts to show the relationship between wind speed and weather types.
    - snow had highest wind speed with the least being drizzle.
-   - ![Temp_Time](images/wind_time.png)
+   - ![Temp_Time](images/wind_weather.png)
 
 ---
 
