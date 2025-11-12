@@ -63,17 +63,17 @@ cite : [kaggle_dataset](https://www.kaggle.com/datasets/ahmadrazakashif/bmw-worl
 ### **Visuals**
 
 **1. Top BMW Models by Sales Volume**  
-[Top Models Bar Chart](images/top_models_bar.png)
+![Top Models Bar Chart](images/top_models_bar.png)
 
 **2. Regional Revenue Distribution**  
-[Regional Revenue Bar Chart](images/region_revenue_bar.png)
-[Regional Revenue Pie Chart](images/region_revenue_pie.png)
+![Regional Revenue Bar Chart](images/region_revenue_bar.png)
+![Regional Revenue Pie Chart](images/region_revenue_pie.png)
 
 **3. Average Price per Model**  
-[Model Price Bar Chart](images/model_price_bar.png)
+![Model Price Bar Chart](images/model_price_bar.png)
 
 **4. Yearly Trends**  
-[Yearly Sales Trend](images/yearly_sales_line.png)
+![Yearly Sales Trend](images/yearly_sales_line.png)
 
 ---
 
