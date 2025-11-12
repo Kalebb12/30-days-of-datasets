@@ -63,17 +63,17 @@ cite : [kaggle_dataset](https://www.kaggle.com/datasets/ahmadrazakashif/bmw-worl
 ### **Visuals**
 
 **1. Top BMW Models by Sales Volume**  
-`![Top Models Bar Chart](images/top_models_bar.png)`
+![Top Models Bar Chart](images/top_models_bar.png)
 
 **2. Regional Revenue Distribution**  
-`![Regional Revenue Bar Chart](images/region_revenue_bar.png)`  
-`![Regional Revenue Pie Chart](images/region_revenue_pie.png)`
+![Regional Revenue Bar Chart](images/region_revenue_bar.png)
+![Regional Revenue Pie Chart](images/region_revenue_pie.png)
 
 **3. Average Price per Model**  
-`![Model Price Bar Chart](images/model_price_bar.png)`  
+![Model Price Bar Chart](images/model_price_bar.png)
 
 **4. Yearly Trends**  
-`![Yearly Sales Trend](images/yearly_sales_line.png)`  
+![Yearly Sales Trend](images/yearly_sales_line.png)
 
 ---
 
@@ -81,14 +81,12 @@ cite : [kaggle_dataset](https://www.kaggle.com/datasets/ahmadrazakashif/bmw-worl
 - BMW maintains a **balanced global presence** with near-equal revenue contributions from major regions.  
 - **EV and hybrid adoption** is driving growth post-2020.  
 - The **7 Series, i8, and X-series SUVs** remain core revenue and brand drivers.  
-- Weighted analysis ensures pricing trends reflect **actual sales composition**, not just raw averages.  
 
 ---
 
 ## 🛠️ Tools Used
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Jupyter Notebook / Colab** for exploration and visualization  
-- **Plotly** for interactive charts (optional)  
+- **Jupyter Notebook** for exploration and visualization  
 
 ---
 
