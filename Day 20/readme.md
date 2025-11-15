@@ -40,12 +40,6 @@ The dataset contains the following columns:
 
 * Bar chart: Disaster occurrences by type
 * Yearly disaster frequency line chart
-* Scatter plots showing relationships between:
-
-  * Severity vs casualties
-  * Severity vs economic loss
-  * Aid amount vs recovery days
-* Correlation heatmap of numerical columns
 
 ---
 
