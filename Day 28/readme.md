@@ -63,17 +63,6 @@ investigated:
 * Multi‑genre artists.
 * Which genres correlate with higher popularity.
 
----
-
-## 📈 Visualizations Included
-
-* Track popularity histogram
-* Artist popularity vs. track popularity scatter plot
-* Track duration histogram
-* Release date timeline
-* Explicit vs non‑explicit bar chart
-* Album type distribution
-* Genre frequency plot
 
 ---
 
